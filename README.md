@@ -1,7 +1,7 @@
 ![header](assets/header.png)
 
-<h1 align="center">silly</h1>
-<a href="https://github.com/istoleurbtcin2018"></a>
+<h1 align="center">ian bennett</h1>
+<a href="https://github.com/iaanbennett"></a>
 
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=istoleurbtcin2018&color=blueviolet" alt="Profile Views"/>
